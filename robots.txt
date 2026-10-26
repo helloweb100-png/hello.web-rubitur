@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO producción: reemplazar TU-DOMINIO.com por el dominio real
+Sitemap: https://TU-DOMINIO.com/sitemap.xml
